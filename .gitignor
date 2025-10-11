@@ -1,0 +1,16 @@
+# IDE-spesifikke filer
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtuelt miljø
+venv/
+env/
+
+# Datafiler (lagret på S3)
+database_biler.parquet
+metadata.json
+.env

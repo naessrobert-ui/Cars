@@ -1,0 +1,4 @@
+
+# Datafiler (lagret på S3)
+database_biler.parquet
+metadata.json
